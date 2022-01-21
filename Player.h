@@ -4,7 +4,6 @@
 #ifndef OGAMEPROTOTYPE1_PLAYER_H
 #define OGAMEPROTOTYPE1_PLAYER_H
 
-
 #include <ncurses.h>
 #include <string>
 
